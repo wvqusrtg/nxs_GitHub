@@ -1,0 +1,90 @@
+{
+        "button":[
+            {
+              
+                "name":"微管家",
+                "sub_button":[
+                    {
+                        "type": "click",
+                        "name": "今日销售",
+                        "key": "JRXS"
+                    },
+                    {
+                        "type": "click",
+                        "name": "今日采购",
+                        "key": "JRCG"
+                    },
+                    {
+                        "type": "click",
+                        "name": "今日款项",
+                        "key": "JRKX"
+                    },
+					{
+                        "type": "click",
+                        "name": "数据报表",
+                        "key": "SJBB"
+                    },
+                    {
+                        "type": "click",
+                        "name": "连接设置",
+                        "key": "Set_Connect"
+                    }
+                ]
+            },
+               { "name":"产品中心",
+                "sub_button":[
+                    {
+                        "type": "view",
+                        "name": "手机版",
+                        "url": "http://fl.act.qq.com/28129/addev/h5/266228/"
+                    },
+                    {
+                        "type": "view",
+                        "name": "物联通PDA",
+                        "url": "http://fl.act.qq.com/28129/addev/h5/266166/"
+                    },
+                    {
+                        "type": "view",
+                        "name": "短信通",
+                        "url": "http://m.vcooline.com/22347/channel/138517#mp.weixin.qq.com/"
+                    },
+                    {
+                        "type": "view",
+                        "name": "来电通",
+                        "url": "http://fl.act.qq.com/28129/addev/h5/264994"
+                    },
+                    {
+                        "type": "view",
+                        "name": "巡店通",
+                        "url": "http://fl.act.qq.com/28129/addev/h5/266057/"
+                    }
+                ]
+            },
+            
+            {
+                "name":"关于我们",
+                "sub_button":[
+                    {
+                        "type": "view",
+                        "name": "最近新闻",
+                        "url": "http://m.vcooline.com/22347/channel/207864/"
+                    },
+                    {
+                        "type": "view",
+                        "name": "公司简介",
+                        "url": "http://www.hzgjp.com/about.asp/"
+                    },
+                    {
+                        "type": "view",
+                        "name": "最新优惠",
+                        "url": "http://m.vcooline.com/22347/channel/207879#mp.weixin.qq.com/"
+                    },
+                    {
+                        "type": "view",
+                        "name": "导航到公司",
+                        "url": "http://www.woolinte.com/"
+                    }
+                ]
+            }
+        ]
+}
