@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[otG66jh9DS-4qagQ02JyofH5LY8M]]></ToUserName>
+  <FromUserName><![CDATA[gh_3caf5bd53fc6]]></FromUserName>
+  <CreateTime>1442216619</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[有空再来]]></Content>
+</xml>

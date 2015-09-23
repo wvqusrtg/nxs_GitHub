@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oiwuasz9eJvbfxf8Hd56G6XxnM0A]]></ToUserName>
+  <FromUserName><![CDATA[gh_72897cca1fa9]]></FromUserName>
+  <CreateTime>1442859847</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[【我的钱包升级维护中】详情咨询官方热线:400-089-6099]]></Content>
+</xml>

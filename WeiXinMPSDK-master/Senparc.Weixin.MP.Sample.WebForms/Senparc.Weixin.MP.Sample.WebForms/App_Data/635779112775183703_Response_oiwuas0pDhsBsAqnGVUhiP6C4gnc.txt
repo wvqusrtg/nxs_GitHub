@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oiwuas0pDhsBsAqnGVUhiP6C4gnc]]></ToUserName>
+  <FromUserName><![CDATA[gh_72897cca1fa9]]></FromUserName>
+  <CreateTime>1442285677</CreateTime>
+  <MsgType><![CDATA[news]]></MsgType>
+  <ArticleCount>1</ArticleCount>
+  <Articles>
+    <item>
+      <Title><![CDATA[您点击了子菜单图文按钮]]></Title>
+      <Description><![CDATA[您点击了子菜单图文按钮，这是一条图文信息。]]></Description>
+      <PicUrl><![CDATA[http://wvqusrtg.wicp.net/Images/69chengQRCode.png]]></PicUrl>
+      <Url><![CDATA[http://www.69cheng.com/]]></Url>
+    </item>
+  </Articles>
+</xml>

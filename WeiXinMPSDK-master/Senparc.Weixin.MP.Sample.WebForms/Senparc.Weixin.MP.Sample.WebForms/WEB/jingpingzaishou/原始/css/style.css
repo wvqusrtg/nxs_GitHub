@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+input,img,body{border:0;padding:0;margin:0}
+
+#div1{
+    		
+    	}
+#div2{
+    		
+    		display: none;
+    	}
+#div3{
+    		
+    		display: none;
+    	}
+#div4{
+    		
+    		display: none;
+    	}
+#div5{
+    		
+    		display: none;
+    	}
+#div6{
+    		
+    		display: none;
+    	}
+.photo img{max-width:100%;}
+.photo{float:right;min-width:80%}
+#test{min-width:20%;float:left; position:fixed;top:0;height:100%}
+#test input{height:16.7%; min-width:100%;font-size:18px; font-family:"microsoft yahei";background-color:#eee;border-bottom:2px solid #fff; text-align:center;padding:0 5px}
+
+.wrap{ width: 52px; height: 57px; position: absolute; right: 0; bottom: 0; }
+.icon_menu{width:57px;height:57px;position:absolute;bottom:1px;right:2px;z-index:10;cursor:pointer;}
+.icon_menu span{diplay:none;}
+.btn{width:52px;height:57px;background:url(../img/bg1.png) no-repeat -78px -6px;z-index:1;position:absolute;bottom:0;right:0;margin:0 5px 2px 0;cursor:pointer;}
+.btn span{display:block;width:45px;height:24px;font-size:0;position:absolute;top:50%;left:48%;margin-top:-12px;margin-left:-24px;overflow:hidden;background:url(../img/bg1.png) no-repeat;}
+.btn1 span{background-position:-146px -20px;}
+.btn2 span{background-position:-196px -18px;}
+.btn3 span{background-position:-248px -18px;}
+.btn{-webkit-transition:bottom .2s,right .2s;-moz-transition:bottom .2s,right .2s;-o-transition:bottom .2s,right .2s;-ms-transition:bottom .2s,right .2s;transition:bottom .2s,right .2s;}
+.btn1.close, .btn2.close, .btn3.close, .btn4.close{bottom:0;right:0;}
+.btn1.open{bottom:70px;right:0;}
+.btn2.open{bottom:61px;right:61px;}
+.btn3.open{bottom:0px;right:70px;}
+
+

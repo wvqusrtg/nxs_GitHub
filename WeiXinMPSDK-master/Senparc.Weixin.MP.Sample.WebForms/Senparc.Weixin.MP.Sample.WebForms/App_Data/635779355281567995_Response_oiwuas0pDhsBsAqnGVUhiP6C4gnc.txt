@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oiwuas0pDhsBsAqnGVUhiP6C4gnc]]></ToUserName>
+  <FromUserName><![CDATA[gh_72897cca1fa9]]></FromUserName>
+  <CreateTime>1442309928</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[欢迎关注【69cheng 官方微信公众平台】，当前运行版本：v12.4。
+您可以直接点击菜单查看各种类型的回复。
+【69cheng官方地址：http://www.69cheng.com/】
+【69cheng官方微信开发：倪新生】]]></Content>
+</xml>

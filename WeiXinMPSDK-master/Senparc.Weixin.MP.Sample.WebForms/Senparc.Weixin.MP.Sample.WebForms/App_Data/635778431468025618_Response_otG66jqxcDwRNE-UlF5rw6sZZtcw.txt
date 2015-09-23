@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[otG66jqxcDwRNE-UlF5rw6sZZtcw]]></ToUserName>
+  <FromUserName><![CDATA[gh_3caf5bd53fc6]]></FromUserName>
+  <CreateTime>1442217546</CreateTime>
+  <MsgType><![CDATA[news]]></MsgType>
+  <ArticleCount>2</ArticleCount>
+  <Articles>
+    <item>
+      <Title><![CDATA[您刚才发送了图片信息]]></Title>
+      <Description><![CDATA[您发送的图片将会显示在边上]]></Description>
+      <PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/D56nVLHpT1bb1kaeDyWIO3mxdjCOCMj0XxPneHGEMUyDboPcLZyqFjZJib7BibnG0SrPmriaa8kZlGBwNuzflAYHw/0]]></PicUrl>
+      <Url><![CDATA[http://weixin.senparc.com]]></Url>
+    </item>
+    <item>
+      <Title><![CDATA[第二条]]></Title>
+      <Description><![CDATA[第二条带连接的内容]]></Description>
+      <PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/D56nVLHpT1bb1kaeDyWIO3mxdjCOCMj0XxPneHGEMUyDboPcLZyqFjZJib7BibnG0SrPmriaa8kZlGBwNuzflAYHw/0]]></PicUrl>
+      <Url><![CDATA[http://weixin.senparc.com]]></Url>
+    </item>
+  </Articles>
+</xml>

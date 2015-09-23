@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oiwuas0pDhsBsAqnGVUhiP6C4gnc]]></ToUserName>
+  <FromUserName><![CDATA[gh_72897cca1fa9]]></FromUserName>
+  <CreateTime>1442824051</CreateTime>
+  <MsgType><![CDATA[news]]></MsgType>
+  <ArticleCount>1</ArticleCount>
+  <Articles>
+    <item>
+      <Title><![CDATA[六九城欢迎您]]></Title>
+      <Description><![CDATA[详细敬请咨询六九城【69cheng】官方热线:400-089-6099]]></Description>
+      <PicUrl><![CDATA[http://wvqusrtg.wicp.net/Images/69chengQRCode.png]]></PicUrl>
+      <Url><![CDATA[http://wvqusrtg.wicp.net/Images/69chengQRCode.png]]></Url>
+    </item>
+  </Articles>
+</xml>

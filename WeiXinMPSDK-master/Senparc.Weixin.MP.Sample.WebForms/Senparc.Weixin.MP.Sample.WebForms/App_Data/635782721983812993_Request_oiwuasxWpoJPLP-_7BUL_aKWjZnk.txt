@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[gh_72897cca1fa9]]></ToUserName>
+  <FromUserName><![CDATA[oiwuasxWpoJPLP-_7BUL_aKWjZnk]]></FromUserName>
+  <CreateTime>1442646752</CreateTime>
+  <MsgType><![CDATA[event]]></MsgType>
+  <Event><![CDATA[CLICK]]></Event>
+  <EventKey><![CDATA[SubClickRoot_News]]></EventKey>
+</xml>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oiwuasxWpoJPLP-_7BUL_aKWjZnk]]></ToUserName>
+  <FromUserName><![CDATA[gh_72897cca1fa9]]></FromUserName>
+  <CreateTime>1442823685</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[您点击了view按钮，将打开网页：http://wvqusrtg.wicp.net/WEB/jingpingzaishou/index.html]]></Content>
+</xml>

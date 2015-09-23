@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+  	
+
+	<title>【六九城】精品在售</title>
+
+    
+
+	<link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen">
+
+    <link rel="stylesheet" href="css/main.css" type="text/css" media="screen">
+
+	
+
+	<!-- Color Scheme -->
+
+    <link rel="stylesheet" href="css/color.css" type="text/css" media="screen">
+
+</head>
+
+<body>
+
+	<div id="st-container" class="st-container">
+
+		<nav class="st-menu st-effect-4">
+
+			<ul>
+
+				<li><h1>六九城 69cheng</h1></li>
+
+				<li><a class="ico home" href="index.html">客厅</a></li>
+
+				<li><a class="ico portfolio selected" href="portfolio.html">卧室</a></li>
+
+				<li><a class="ico services" href="services.html">厨房</a></li>
+
+				<li><a class="ico gallery" href="gallery.html">卫生间</a></li>
+
+				<li><a class="ico blog" href="blog.html">周边环境</a></li>
+
+				<li><a class="ico typography" href="typography.html">房源详情</a></li>
+
+				
+
+
+
+			</ul>
+
+		</nav>
+
+		<header>
+
+						<div id="st-trigger-effects">
+
+							<button data-effect="st-effect-4" id="menu-bars"></button>
+
+						</div>
+
+						<h1>卧室</h1>
+
+						
+
+					</header>
+
+		<div class="st-pusher">
+
+			<div class="st-content">
+
+				<div class="st-content-inner">
+
+					<!-- Top Navigation -->
+
+					
+
+					
+					<div class="swiper-container1" id="slider-swiper1">
+
+						<div class="swiper-wrapper1">
+
+							<div class="swiper-slide1"> <img src="images/1.jpg" alt=""> </div>
+
+							<div class="swiper-slide1"> <img src="images/2.jpg" alt=""> </div>
+
+							<div class="swiper-slide1"> <img src="images/1.jpg" alt=""> </div>
+                            <div class="swiper-slide1"> <img src="images/2.jpg" alt=""> </div>
+
+							<div class="swiper-slide1"> <img src="images/1.jpg" alt=""> </div>
+                            <div class="swiper-slide1"> <img src="images/2.jpg" alt=""> </div>
+
+						</div>
+
+					</div>
+
+					<div class="wrap" style="position:fixed; bottom:10px; right:10px">
+                        <div class="menu"><img class="icon_menu" src="img/menu.png" /><span></span></div>
+                        <input type="button"  value="分享" onclick="openNewDiv(1)" class="btn btn1" data-num="1"  />
+                        <input type="button"  value="约看" onclick="openNewDiv(1)" class="btn btn2" data-num="2"  />
+                        <input type="button"  value="咨询" onclick="openNewDiv(1)" class="btn btn3" data-num="3"  />
+                    </div>
+                    <script type="text/javascript" src="js/zepto.min.js"></script>
+                    <script type="text/javascript">
+                    $(function(){
+                        $(".menu").click(function(){
+                            var span = $(this).find("span");
+                            if(span.hasClass("open")){
+                                span.removeClass("open").addClass("close");
+                                $(".btn").removeClass("open").addClass("close");
+                            }else{
+                                span.removeClass("close").addClass("open");
+                                $(".btn").removeClass("close").addClass("open");
+                            }
+                        });
+                    });
+                    </script>
+							</div><!-- /photography-->
+
+						</fieldset>
+
+					</div><!-- /content -->
+
+				</div><!-- /st-content-inner -->
+
+			</div><!-- /st-content -->
+
+		</div><!-- /st-pusher -->
+
+	</div><!-- /st-container -->
+
+	
+
+	<script src="js/jquery-1.10.2.min.js"></script>
+
+	
+
+	<!-- PhotoSwipe Image Gallery -->
+
+	<script src="js/klass.min.js"></script>
+
+	<script src="js/code.photoswipe.jquery-3.0.5.min.js"></script>
+
+	<script src="js/custom.js"></script>
+
+	
+
+	<script src="js/classie.js"></script>
+
+	<script src="js/sidebarEffects.js"></script>
+
+</body>
+
+</html>
+

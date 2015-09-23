@@ -1,0 +1,2 @@
+MessageHandler中Execute()过程发生错误：微信请求发生错误！错误代码：41004，说明：appsecret missing hint: [xy6jTA0107vr22]
+微信请求发生错误！错误代码：41004，说明：appsecret missing hint: [xy6jTA0107vr22]

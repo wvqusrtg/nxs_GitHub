@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html><head>
+    <title> 【六九城】精品在售 </title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+   
+  	<link href="css/style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+	
+    	$(function(){
+	    	$("#test input").click(function(){
+	    		//alert(this.value);
+	    		$("#" + this.name).css("display","block").siblings().css("display","none");
+	    	});
+    	});
+    </script>
+  </head>
+  
+  <body>
+ 
+  	<div id="test">
+  		<input type="button" value="卧室" name="div1" ><br>
+  		<input type="button" value="客厅" name="div2" ><br>
+  		<input type="button" value="厨房" name="div3" ><br>
+  		<input type="button" value="卫生间" name="div4"><br>
+        <input type="button" value="周围环境" name="div5"><br>
+        <input type="button" value="房屋详情" name="div6">
+  	</div>
+    <div class="photo">
+    	<div id="div1"><img src="images/1.jpg"><img src="images/1.jpg"><img src="images/1.jpg"><img src="images/1.jpg"><img src="images/1.jpg"></div>
+    	<div id="div2"><img src="images/2.jpg"><img src="images/2.jpg"><img src="images/2.jpg"><img src="images/2.jpg"><img src="images/2.jpg"></div>
+    	<div id="div3"><img src="images/3.jpg"><img src="images/3.jpg"><img src="images/3.jpg"><img src="images/3.jpg"><img src="images/3.jpg"></div>
+    	<div id="div4"><img src="images/4.jpg"><img src="images/4.jpg"><img src="images/4.jpg"><img src="images/4.jpg"><img src="images/4.jpg"></div>
+        <div id="div5"><img src="images/5.jpg"><img src="images/5.jpg"><img src="images/5.jpg"><img src="images/5.jpg"><img src="images/5.jpg"></div>
+        <div id="div6"><img src="images/6.jpg"><img src="images/6.jpg"><img src="images/6.jpg"><img src="images/6.jpg"><img src="images/6.jpg"></div>
+    </div>
+  <div class="wrap" style=" position:fixed;bottom:10px;right:10px">
+	<div class="menu"><img class="icon_menu" src="img/menu.png" /><span></span></div>
+	<div class="btn btn1" data-num="1"><span><a href="#">分享</a></span></div>
+	<div class="btn btn2" data-num="2"><span><a href="#">约看</a></span></div>
+	<div class="btn btn3" data-num="3"><span><a href="#">咨询</a></span></div>
+</div>
+<script type="text/javascript" src="js/zepto.min.js"></script>
+<script type="text/javascript">
+$(function(){
+	$(".menu").click(function(){
+		var span = $(this).find("span");
+		if(span.hasClass("open")){
+			span.removeClass("open").addClass("close");
+			$(".btn").removeClass("open").addClass("close");
+		}else{
+			span.removeClass("close").addClass("open");
+			$(".btn").removeClass("close").addClass("open");
+		}
+	});
+});
+</script>
+    
+  </body>
+</html>

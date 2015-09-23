@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[gh_72897cca1fa9]]></ToUserName>
+  <FromUserName><![CDATA[oiwuas0pDhsBsAqnGVUhiP6C4gnc]]></FromUserName>
+  <CreateTime>1442219106</CreateTime>
+  <MsgType><![CDATA[voice]]></MsgType>
+  <MediaId><![CDATA[DoekTxabj2IR8dr2ZSzoT9lYrx26Szk81Ughafh1Qn1oAiBKBPD8sKv3knDKgqrN]]></MediaId>
+  <Format><![CDATA[amr]]></Format>
+  <MsgId>6194283893936357376</MsgId>
+  <Recognition><![CDATA[嗯！你信！]]></Recognition>
+</xml>

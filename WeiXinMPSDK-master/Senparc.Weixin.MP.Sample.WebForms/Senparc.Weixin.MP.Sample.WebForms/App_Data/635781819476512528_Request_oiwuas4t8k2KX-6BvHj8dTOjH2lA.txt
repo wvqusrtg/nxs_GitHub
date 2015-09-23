@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[gh_72897cca1fa9]]></ToUserName>
+  <FromUserName><![CDATA[oiwuas4t8k2KX-6BvHj8dTOjH2lA]]></FromUserName>
+  <CreateTime>1442556513</CreateTime>
+  <MsgType><![CDATA[event]]></MsgType>
+  <Event><![CDATA[LOCATION]]></Event>
+  <Latitude>30.273638</Latitude>
+  <Longitude>120.170219</Longitude>
+  <Precision>30.000000</Precision>
+</xml>
